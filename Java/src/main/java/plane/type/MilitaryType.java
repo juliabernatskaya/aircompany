@@ -1,4 +1,4 @@
-package models;
+package plane.type;
 
 public enum MilitaryType {
     FIGHTER, BOMBER, TRANSPORT
